@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Theekshana</h1>
-<h3 align="center">I am a Undergraduate Student in SLIIT.</h3>
+<h3 align="center">I am an Undergraduate Student at SLIIT.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theekshana56&label=Profile%20views&color=0e75b6&style=flat" alt="theekshana56" /> </p>
 
