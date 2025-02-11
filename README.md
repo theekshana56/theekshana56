@@ -29,7 +29,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/theekshana-gamage-b74061350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in.svg" alt="Linkedin" height="30" width="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="Linkedin" height="30" width="40"/>
   </a>
 </p>
 
