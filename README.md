@@ -28,7 +28,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
 </p>
-
+https://www.linkedin.com/in/theekshana-gamage-b74061350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 ---
 
 <h3 align="left">Languages and Tools:</h3>
