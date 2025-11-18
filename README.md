@@ -20,14 +20,15 @@
 const theekshana = {
     location: "Sri Lanka 🇱🇰",
     education: "Sri Lanka Institute of Information Technology (SLIIT)",
-    currentFocus: "Mastering Java & Full-Stack Development",
-    askMeAbout: ["C", "C++", "Java", "Web Development", "Problem Solving"],
+    currentFocus: "Mastering Full-Stack Development & Mobile App Development",
+    askMeAbout: ["C", "C++", "Java", "Kotlin", "Web Development", "Android", "MERN Stack"],
     technologies: {
-        languages: ["C", "C++", "Java", "JavaScript", "PHP", "SQL"],
-        frontend: ["HTML5", "CSS3", "JavaScript"],
-        backend: ["PHP", "MySQL"],
-        tools: ["Git", "GitHub", "VS Code", "IntelliJ IDEA"],
-        currentlyLearning: ["Advanced Java", "Data Structures", "Algorithms"]
+        languages: ["C", "C++", "Java", "Kotlin", "JavaScript", "PHP", "SQL"],
+        frontend: ["HTML5", "CSS3", "JavaScript", "React"],
+        backend: ["Node.js", "PHP", "MongoDB", "MySQL"],
+        mobile: ["Android (Java/Kotlin)", "XML Layouts"],
+        tools: ["Git", "GitHub", "VS Code", "IntelliJ IDEA", "Android Studio"],
+        currentlyLearning: ["MERN Stack", "Android Development", "Data Structures", "Algorithms"]
     },
     lifePhilosophy: "Code with passion, debug with patience",
     funFact: "I turn coffee into code ☕ → 💻"
@@ -40,10 +41,11 @@ const theekshana = {
 
 - 🔥 Building projects that matter and solve real-world problems
 - 🧠 Deep diving into **Data Structures & Algorithms**
-- 🌐 Exploring modern web frameworks and architectures
+- 🌐 Exploring **MERN Stack** and modern web frameworks
+- 📱 Developing native **Android applications** with Kotlin & Java
 - 🤝 Open to collaborating on innovative projects
 - 📚 Contributing to open-source communities
-- 🎓 Aiming to become a well-rounded Software Engineer
+- 🎓 Aiming to become a well-rounded Full-Stack & Mobile Developer
 
 ### ⚡ Quick Facts
 
@@ -62,11 +64,11 @@ const theekshana = {
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,php,html,css,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,js,nodejs,react,mongodb,php,html,css,mysql&theme=dark" />
 
 ### 🔧 Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,linux,windows&theme=dark" />
 
 </div>
 
@@ -76,9 +78,11 @@ const theekshana = {
 
 | Category | Technologies |
 |----------|-------------|
-| **Core Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Core Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
+| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Mobile Development** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![XML](https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=xml&logoColor=white) |
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 </details>
