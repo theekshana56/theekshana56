@@ -31,9 +31,10 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/theekshana-gamage-b74061350" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" height="30" width="40" alt="LinkedIn"/>
-  </a>
+ <a href="https://www.linkedin.com/in/theekshana-gamage-b74061350" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+</a>
+
 </p>
 
 ---
