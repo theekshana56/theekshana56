@@ -20,7 +20,7 @@
 const theekshana = {
     location: "Sri Lanka 🇱🇰",
     education: "Sri Lanka Institute of Information Technology (SLIIT)",
-    currentFocus: "Mastering Full-Stack Development & Mobile App Development",
+    currentFocus: "Full-Stack Development & Mobile App Development",
     askMeAbout: ["C", "C++", "Java", "Kotlin", "Web Development", "Android", "MERN Stack"],
     technologies: {
         languages: ["C", "C++", "Java", "Kotlin", "JavaScript", "PHP", "SQL"],
