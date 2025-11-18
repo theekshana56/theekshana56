@@ -109,7 +109,7 @@ const theekshana = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=theekshana56&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=theekshana56&theme=radical&no-frame=false&no-bg=false&margin-w=15&column=7&row=1" alt="GitHub Trophies" />
 
 </div>
 
