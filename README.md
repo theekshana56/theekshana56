@@ -93,12 +93,15 @@ const theekshana = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=theekshana56&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" alt="Theekshana's GitHub Stats" />
+<img width="49%" 
+     src="https://github-readme-stats-delta-six-33.vercel.app/api?username=theekshana56&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" 
+     alt="Theekshana's GitHub Stats" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=theekshana56&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="Theekshana's GitHub Streak" />
 
 <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=theekshana56&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff" alt="Contribution Graph" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theekshana56&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats-delta-six-33.vercel.app/api/top-langs/?username=theekshana56&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages" />
 <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=theekshana56&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&combine_all_yearly_contributions=true" alt="GitHub Contributions" />
 
 </div>
